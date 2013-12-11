@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-# coded by qingsh4n
+# coded by qingshen
 
 
 import pymssql
